@@ -9,9 +9,13 @@
     <title>アンケート結果</title>
 </head>
 <body>
-    アンケート結果
-    
+    <div class="title-wrapper">
+        Recommended Movie List
+    </div>
 </body>
+<div class="return">
+    <a href="index.php">戻る</a>
+</div>
 </html>
 
 <?php

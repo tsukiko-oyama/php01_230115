@@ -1,18 +1,49 @@
 @charset "utf-8";
 
 .title-wrapper{
-    background-color: red;
+    padding-top:20px;
+    width:100%;
+    background-color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+    margin:auto;
+    text-align:center;
 }
 
 body{
-    background-color: red;
+    background-color: whitesmoke;
+    line-height:5px;
 }
 
-.title{
-    font-size: 20px;
-    font-weight: bold;
+.form-wrapper{
+    padding-top:20px;
+    background-color: whitesmoke;
+    margin:auto;
+    text-align:center;
 }
 
-.formwrapper{
-    background-color: red;
+.form{
+    padding-top:10px;
+    padding-bottom:10px;
+    width:300px;
+    background-color:white;
+    margin:auto;
+    text-align:center;
+}
+.post{
+    width:80%;
+    color:white;
+    border:solid;
+    border-width:5px;
+    border-color:whitesmoke;
+    border-radius:10px;
+    padding:5px;
+    background-color:black;
+    margin-bottom:10px;
+    font-size:14px;
+    margin:auto;
+}
+
+.return{
+    text-align:center;
 }
