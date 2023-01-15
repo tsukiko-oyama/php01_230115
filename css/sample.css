@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+.title-wrapper{
+    background-color: red;
+}
+
+body{
+    background-color: red;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.formwrapper{
+    background-color: red;
+}
